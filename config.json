@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaileender",
+        "uuid": 4988700,
+        "checksum": "s0fwu9"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
